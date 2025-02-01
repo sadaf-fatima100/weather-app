@@ -13,11 +13,24 @@
     }
     .search input{
         padding-left: 10px;
+        padding-right: 5px;
+    }
+    .card{
+        margin-top: 20px;
+    }
+    .search button{
+        height: 50px;
+        width: 50px;
+        gap: 10px;
     }
 }
 @media (max-with:294px) {
     .search input{
         font-size: 14px;
+       
+    }
+    .card{
+        margin-top: 0px;
     }
     
 }
