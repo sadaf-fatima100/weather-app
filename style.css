@@ -22,7 +22,7 @@ body{
 }
 .search{
     width: 100%;
-    background-color: #5b548a; 
+    /* background-color: #5b548a;  */
     display: flex;
     align-items: center;
     justify-content: space-between;
